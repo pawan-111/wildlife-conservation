@@ -1,0 +1,5 @@
+train: /Users/pawanvishwakarma/Desktop/p1/yolo_project/data/train/images
+val: /Users/pawanvishwakarma/Desktop/p1/yolo_project/data/val/images
+
+nc: 19
+names: ['Raccoon', 'bear', 'buffalo', 'bycicle', 'car', 'clock', 'cow', 'deer', 'dog', 'eagle', 'elephant', 'gaur', 'otherentities', 'person', 'pig', 'tiger', 'umbrella', 'wolf', 'gun']
